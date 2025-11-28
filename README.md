@@ -4,3 +4,4 @@ I need to work on my career portfolio. Include the projects I have done and the 
 The sooner i finished it, add it on a resume
 
 FRIDAY 28 NOVEMBER: Started working on it
+will continue through he weekend
