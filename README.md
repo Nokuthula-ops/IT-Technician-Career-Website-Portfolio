@@ -2,7 +2,7 @@
 # Nokuthula Ngcongo — IT Support Portfolio
 
 ## 🌐 Live Portfolio
-[View My Portfolio Here]([https://nokuthula-tech-folio.lovable.app])link portfolio highlights my journey as an IT Support Specialist, showcasing:
+My portfolio highlights my journey as an IT Support Specialist, showcasing:
 - Hands-on troubleshooting labs (e.g., No Internet Access, Display Issues)
 - Networking projects (IP, DNS, Routing, TCP/IP)
 - Remote Support Tools & Techniques
