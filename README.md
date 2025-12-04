@@ -19,7 +19,7 @@ My portfolio highlights my journey as an IT Support Specialist, showcasing:
 - Self-Healing PC Assistant [https://github.com/Nokuthula-ops/Self-Healing-PC-Assistant-project]
 ---
 
-# Nokuthula Ngcongo 2025
+
 
 
 
